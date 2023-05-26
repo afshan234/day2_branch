@@ -1,1 +1,2 @@
 Dog is a pet animal.
+Dog barks loudly.
